@@ -24,4 +24,7 @@ document.getElementById("demo").innerHTML =
 "x7: " + typeof x7 + "<br>";
 
 </script>
+</body>
+
+</html>
 
